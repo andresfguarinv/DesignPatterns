@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DesignPatterns.Console/1.0.0": {
+        "dependencies": {
+          "DesignPatterns.Library": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatterns.Console.dll": {}
+        }
+      },
+      "DesignPatterns.Library/1.0.0": {
+        "runtime": {
+          "DesignPatterns.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatterns.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatterns.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Andres\DesignPatterns\DesignPatterns.Library\bin\Debug\netstandard2.0\DesignPatterns.Library.deps.json
+C:\Andres\DesignPatterns\DesignPatterns.Library\bin\Debug\netstandard2.0\DesignPatterns.Library.dll
+C:\Andres\DesignPatterns\DesignPatterns.Library\bin\Debug\netstandard2.0\DesignPatterns.Library.pdb
+C:\Andres\DesignPatterns\DesignPatterns.Library\obj\Debug\netstandard2.0\DesignPatterns.Library.csprojAssemblyReference.cache
+C:\Andres\DesignPatterns\DesignPatterns.Library\obj\Debug\netstandard2.0\DesignPatterns.Library.AssemblyInfoInputs.cache
+C:\Andres\DesignPatterns\DesignPatterns.Library\obj\Debug\netstandard2.0\DesignPatterns.Library.AssemblyInfo.cs
+C:\Andres\DesignPatterns\DesignPatterns.Library\obj\Debug\netstandard2.0\DesignPatterns.Library.dll
+C:\Andres\DesignPatterns\DesignPatterns.Library\obj\Debug\netstandard2.0\DesignPatterns.Library.pdb

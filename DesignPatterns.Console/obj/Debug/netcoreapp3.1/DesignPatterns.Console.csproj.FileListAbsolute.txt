@@ -1,0 +1,14 @@
+C:\Andres\DesignPatterns\DesignPatterns.Console\obj\Debug\netcoreapp3.1\DesignPatterns.Console.csprojAssemblyReference.cache
+C:\Andres\DesignPatterns\DesignPatterns.Console\obj\Debug\netcoreapp3.1\DesignPatterns.Console.AssemblyInfoInputs.cache
+C:\Andres\DesignPatterns\DesignPatterns.Console\obj\Debug\netcoreapp3.1\DesignPatterns.Console.AssemblyInfo.cs
+C:\Andres\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp3.1\DesignPatterns.Console.exe
+C:\Andres\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp3.1\DesignPatterns.Console.deps.json
+C:\Andres\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp3.1\DesignPatterns.Console.runtimeconfig.json
+C:\Andres\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp3.1\DesignPatterns.Console.runtimeconfig.dev.json
+C:\Andres\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp3.1\DesignPatterns.Console.dll
+C:\Andres\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp3.1\DesignPatterns.Console.pdb
+C:\Andres\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp3.1\DesignPatterns.Library.dll
+C:\Andres\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp3.1\DesignPatterns.Library.pdb
+C:\Andres\DesignPatterns\DesignPatterns.Console\obj\Debug\netcoreapp3.1\DesignPatterns.Console.csproj.CopyComplete
+C:\Andres\DesignPatterns\DesignPatterns.Console\obj\Debug\netcoreapp3.1\DesignPatterns.Console.dll
+C:\Andres\DesignPatterns\DesignPatterns.Console\obj\Debug\netcoreapp3.1\DesignPatterns.Console.pdb
